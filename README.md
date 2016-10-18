@@ -3,7 +3,7 @@
 
 **CONFIG**: 0x10040000 (Heap)   _8x8_ Unit _256x512_ Display, or _16x16_ Unit _512x1024_ Display
                             
-# -- EN-US ------------------------------------------------------------------------------------
+# -- EN-US ---------------------------------------------------------
 _Game based in the classic racing game of Brick Game "9999 in 1", developed in assembly, using the MARS simulator version 45._
 
 How to execute:
@@ -15,10 +15,11 @@ How to execute:
 5. Run the program
 6. Enjoy
 
-# -- PT-BR ------------------------------------------------------------------------------------
+# -- PT-BR ---------------------------------------------------------
 _Jogo baseado nos clássicos de corrida dos Minigames "9999 in 1", desenvolvido em assembly, utilizando o simulador MARS version 45._
 
 Como executar:
+
 1. Execute o MARS MIPS Simulator normalmente ou pelo terminal -$java -jar Mars4_5.jar\n
 2. Abra o arquivo.asm
 3. Tools>Bitmap Display> "Configure conforme as especificações" > Connect to Mips
