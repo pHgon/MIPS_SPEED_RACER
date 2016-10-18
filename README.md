@@ -20,7 +20,7 @@ _Jogo baseado nos clássicos de corrida dos Minigames "9999 in 1", desenvolvido 
 
 Como executar:
 
-1. Execute o MARS MIPS Simulator normalmente ou pelo terminal -$java -jar Mars4_5.jar\n
+1. Execute o MARS MIPS Simulator normalmente ou pelo terminal -$java -jar Mars4_5.jar
 2. Abra o arquivo.asm
 3. Tools>Bitmap Display> "Configure conforme as especificações" > Connect to Mips
 4. Tools>Keyboard and Display MMIO Simulator> Connect to Mips
